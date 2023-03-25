@@ -1,0 +1,12 @@
+C:\Users\rafxg\source\repos\Waze\Waze\obj\Debug\Waze.csproj.AssemblyReference.cache
+C:\Users\rafxg\source\repos\Waze\Waze\obj\Debug\Waze.Form1.resources
+C:\Users\rafxg\source\repos\Waze\Waze\obj\Debug\Waze.Properties.Resources.resources
+C:\Users\rafxg\source\repos\Waze\Waze\obj\Debug\Waze.csproj.GenerateResource.cache
+C:\Users\rafxg\source\repos\Waze\Waze\obj\Debug\Waze.csproj.CoreCompileInputs.cache
+C:\Users\rafxg\source\repos\Waze\Waze\bin\Debug\Helpers\Db.mdf
+C:\Users\rafxg\source\repos\Waze\Waze\bin\Debug\Helpers\Db_log.ldf
+C:\Users\rafxg\source\repos\Waze\Waze\bin\Debug\Waze.exe.config
+C:\Users\rafxg\source\repos\Waze\Waze\bin\Debug\Waze.exe
+C:\Users\rafxg\source\repos\Waze\Waze\bin\Debug\Waze.pdb
+C:\Users\rafxg\source\repos\Waze\Waze\obj\Debug\Waze.exe
+C:\Users\rafxg\source\repos\Waze\Waze\obj\Debug\Waze.pdb
